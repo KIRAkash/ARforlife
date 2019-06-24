@@ -1,0 +1,156 @@
+
+.head {
+	background-color:green;
+    width: 1000px;
+    height: 100px;
+	font-family:Impact, Charcoal, sans-serif;
+	font-weight:800;
+	font-size: 5.6em;
+	font-style:bold;
+	text-decoration:underline;
+	text-align: center;
+	letter-spacing: 0.02em;
+	word-spacing: .1em;
+	padding: 0;
+	margin: 0;
+}
+.smallhead {
+	font-family:"Courier New", Courier, monospace;
+	background-color:green;
+    width: 1000px;
+	height: 55px;
+	font-weight:800;
+	font-size: 3.6em;
+     float: center;
+	margin: 0;
+	text-align: center;
+	letter-spacing: 0.02em;
+	word-spacing: .051em;
+
+
+}
+a:active{
+	color:black;
+}
+
+a:visited{
+	color: black;
+}
+
+.container{
+	width:80%;
+	margin:auto;
+}
+.toping{
+	float: left;
+	width:33.3%;
+	margin:auto;
+	color: green;
+	text-align: center;
+
+}
+.topinghead{
+	background-color:green;
+	float: left;
+	width:32%;
+	margin:auto;
+	color: black;
+	text-align: center;
+    margin: 5px;
+}
+.topinghead h1:hover{
+      background-color:black;
+       color: green;
+}
+.toping1{
+	float: left;
+	width:32%;
+	margin:8px;
+	color: green;
+	text-align: justify;
+}
+#navbar{
+	background-color:green;
+	color:#fff;
+
+}
+
+#navbar ul{
+	padding:0;
+	list-style: none;
+  
+}
+
+#navbar li{
+	display:inline;
+    padding: 80px;
+}
+
+#navbar a{
+
+	color:black;
+	text-decoration: none;
+	font-size:30px;
+	padding-right:15px;
+}
+#navbar a:hover {
+  background: black;
+  color: green;
+}
+.button{
+
+	background-color:#333;
+	color:#fff;
+	padding:10px 15px;
+	border:none;
+}
+
+.button:hover{
+	background:black;
+	color:green;
+}
+.fix-me p{
+
+	position:fixed;
+	bottom:0;
+	margin-left: 110px;
+	
+	
+	background: green;
+	color: black;
+}
+.my-form{
+	
+}
+
+.my-form .form-group{
+
+}
+
+.my-form label{
+	display:inline;
+	color: green;
+    width: 110px;
+}
+
+.my-form input[type="text"], .my-form textarea{
+	height:30px;
+	width:auto;
+	background: green;
+}
+
+
+.glow{
+	text-align: justify;
+  text-shadow: 0 0 3px #1f6d04, 0 0 5px #63e238;
+}
+.final{
+	float: left;
+	width: 50%;
+	color: black;
+	height: 60px;
+	
+	color: green;
+	text-align: center;
+	font-size: 3.2em;
+}
